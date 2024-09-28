@@ -1,2 +1,2 @@
-# Data-Scientist-in-Python
-Project completed as part of the Dataquest Data Scientist in Python Bootcamp.
+# All Bootcamps projects
+Project completed as part of my bootcamp ( DataQuest / DataCamp)
