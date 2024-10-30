@@ -14,4 +14,4 @@ All these projects focus on data exploration and analysis using the following to
 - **Jupyter Lab**
 - **NumPy**
 - **Pandas**
-- **scikit learn**
+- **Scikit learn**
