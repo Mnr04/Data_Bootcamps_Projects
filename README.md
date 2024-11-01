@@ -6,7 +6,7 @@ This section lists the projects completed as part of my bootcamp training:
 - **DataCamp**
 - **Coursera**
 
-All these projects focus on data exploration and analysis, machine learning, and deep learning using the following tools:
+All these projects focus on data exploration , analysis, machine learning, and deep learning using the following tools:
 
 - **Python**
 - **Matplotlib**
