@@ -6,7 +6,7 @@ This section lists the projects completed as part of my bootcamp training:
 - **DataCamp**
 - **Coursera**
 
-All these projects focus on data exploration and analysis using the following tools:
+All these projects focus on data exploration and analysis, machine learning, and deep learning using the following tools:
 
 - **Python**
 - **Matplotlib**
@@ -14,5 +14,7 @@ All these projects focus on data exploration and analysis using the following to
 - **Jupyter Lab**
 - **NumPy**
 - **Pandas**
-- **Scikit learn**
+- **Scikit-learn**
 - **Pingouin**
+
+All the projects in this repository are derived from the courses offered by these platforms.
